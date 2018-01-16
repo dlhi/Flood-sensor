@@ -1,0 +1,85 @@
+Flood Detector Application - Date Run: 2017-12-10 15:18:35.766825
+Flood Detector Application - Date Run: 2017-12-10 15:18:58.067648
+Flood Detector Application - Date Run: 2017-12-10 15:25:30.649548
+Flood Detector Application - Date Run: 2017-12-10 15:26:13.054496
+Flood Detector Application - Date Run: 2017-12-10 15:26:57.461350
+Flood Detector Application - Date Run: 2017-12-10 15:27:18.205168
+Flood Detector Application - Date Run: 2017-12-10 15:27:59.181346
+Flood Detector Application - Date Run: 2017-12-10 15:28:36.622168
+Flood Detector Application - Date Run: 2017-12-10 15:29:22.167118
+Flood Detector Application - Date Run: 2017-12-10 15:29:35.524578
+Flood Detector Application - Date Run: 2017-12-10 15:35:37.551369
+Flood Detector Application - Date Run: 2017-12-10 15:43:04.723001
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:17
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:20
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:23
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:26
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:29
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:32
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:37
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:38
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:39
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:40
+3D42.349992,-71.107870 Time: 2017-12-10 15:43:41
+Flood Detector Application - Date Run: 2017-12-10 15:44:44.863544
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:12
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:15
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:18
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:21
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:24
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:27
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:45:30
+Flood Detector Application - Date Run: 2017-12-10 15:48:27.455668
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:39
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:42
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:46
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:50
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:51
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:52
+4D42.349992,-71.107870TESTING Time: 2017-12-10 15:48:53
+Flood Detector Application - Date Run: 2017-12-10 15:51:54.843458
+Flood Detector Application - Date Run: 2017-12-10 15:56:27.719310
+Flood Detector Application - Date Run: 2017-12-10 15:56:49.010547
+Flood Detector Application - Date Run: 2017-12-10 15:57:03.513417
+Flood Detector Application - Date Run: 2017-12-10 15:57:33.129052
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:41
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:44
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:47
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:50
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:53
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:58
+4D42.349992,-71.107870 Time: 2017-12-10 15:58:59
+4D42.349992,-71.107870 Time: 2017-12-10 15:59:00
+4D42.349992,-71.107870 Time: 2017-12-10 15:59:01
+4D42.349992,-71.107870 Time: 2017-12-10 15:59:02
+Flood Detector Application - Date Run: 2017-12-10 16:02:20.448959
+Flood Detector Application - Date Run: 2017-12-10 16:04:33.300289
+Flood Detector Application - Date Run: 2017-12-11 23:39:14.192331
+Flood Detector Application - Date Run: 2017-12-11 23:41:17.057652
+Flood Detector Application - Date Run: 2017-12-11 23:41:33.702253
+Flood Detector Application - Date Run: 2017-12-11 23:45:31.408700
+Flood Detector Application - Date Run: 2017-12-11 23:46:04.751560
+Flood Detector Application - Date Run: 2017-12-11 23:46:23.646030
+Flood Detector Application - Date Run: 2017-12-11 23:46:58.093524
+Flood Detector Application - Date Run: 2017-12-11 23:48:01.573927
+Flood Detector Application - Date Run: 2017-12-11 23:48:36.940277
+Flood Detector Application - Date Run: 2017-12-12 02:52:36.679203
+Flood Detector Application - Date Run: 2017-12-12 13:33:12.936179
+Flood Detector Application - Date Run: 2017-12-12 13:58:16.028097
+Flood Detector Application - Date Run: 2017-12-12 13:58:48.255517
+Flood Detector Application - Date Run: 2017-12-12 15:28:21.423068
+Flood Detector Application - Date Run: 2017-12-12 15:28:28.010505
+Flood Detector Application - Date Run: 2017-12-12 15:30:08.389484
+Flood Detector Application - Date Run: 2017-12-12 15:30:18.017785
+1D42.349992,-71.107870 Time: 2017-12-12 15:30:36
+1D42.349992,-71.107870 Time: 2017-12-12 15:30:39
+Flood Detector Application - Date Run: 2017-12-12 15:32:26.457656
+Flood Detector Application - Date Run: 2017-12-12 15:32:41.693761
+Flood Detector Application - Date Run: 2017-12-12 15:32:54.382504
+Flood Detector Application - Date Run: 2017-12-12 15:46:18.810253
+Flood Detector Application - Date Run: 2017-12-12 16:02:37.129969
+Flood Detector Application - Date Run: 2017-12-12 16:07:22.478833
+Flood Detector Application - Date Run: 2017-12-12 16:08:56.619069
+Flood Detector Application - Date Run: 2017-12-12 16:44:13.460506
+Flood Detector Application - Date Run: 2017-12-12 16:44:41.386851
+Flood Detector Application - Date Run: 2017-12-12 16:46:41.835845
